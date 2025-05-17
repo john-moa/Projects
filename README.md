@@ -11,20 +11,21 @@ Insights and recommendations are provided across the following strategic areas:
 * **Seasonality Analysis:** Review of ADR and guest night fluctuations across seasonal cycles.
 * **Hotel Performance Comparison:** Comparative performance assessment between the two properties.
 
----
-
 ## Business Context & Data Overview
 
-The operational dataset covered three years (2021–2023) of bookings, revenue, and guest behavior across the two hotels. The data was cleaned and prepared to remove inconsistencies and standardize formatting.
+Solara Haven Group’s hotel revenue grew from $5.74M in 2021 to $20.95M in 2022, marking a 265.1% year-over-year increase, followed by a decline to $11.54M in 2023 (–44.9% YoY). Despite the drop, 2023 revenue remained 101.1% higher than in 2021. The sharp rise in 2022 reflects post pandemic recovery, while 2023 suggests market stabilization. MidTown Luxury Hotel led performance with 57.4% of total revenue ($21.44M).
 
-**Key figures from the dataset:**
-**Total Revenue:** \$37.34M
-**Total Guest Nights:** 485,890
-**Total Requested Parking Spaces:** 8,819
+The dataset reveals several key metrics that highlight the scale of operations across the hotel properties analyzed. Over the span of the data collected:
 
+Total Revenue amounted to **$37.34 million**, reflecting the strong financial performance of the hotels during the observed period.
+
+Total Guest Nights reached **485,890**, indicating high occupancy and sustained guest engagement across both properties.
+
+Total Requested Parking Spaces totaled **8,819**, offering insight into guest preferences and potential facility demand for parking accommodations.
+
+These figures serve as foundational indicators of overall business activity and help contextualize deeper analyses into revenue trends, guest behavior, and operational needs.
 The analysis supports operational, pricing, and marketing decisions by focusing on performance fluctuations, customer demand trends, and infrastructure needs.
 
----
 
 ## Summary of Key Insights
 
@@ -71,8 +72,6 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 
 
----
-
 ## Strategic Recommendations
 
 **Invest in Parking Expansion** at the 4 Star Resort, which saw a 300%+ increase in demand during peak years.
@@ -80,7 +79,6 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 **Assess Revenue Dip in 2023**: Explore potential causes of the 2023 revenue dip—such as seasonal patterns or changes in demand—through further analysis of operational and marketing data.
 **Segment Operational Strategy**: Differentiate approaches between MidTown Luxury Hotel and the 4 Star Resort & Hotel—e.g., focus MidTown on consistent revenue and the Resort on managing seasonality and amenities.
 
----
 
 ## Considerations & Caveats
 
