@@ -1,2 +1,0 @@
-Placeholder file to initialize folder.
-Hidden images folder
