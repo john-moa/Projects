@@ -23,11 +23,12 @@ Total Revenue amounted to **$37.34 million**, reflecting the strong financial pe
 
 Total Guest Nights reached **485,890** indicating high occupancy and sustained guest engagement across both properties.
 
-Total Requested Parking Spaces totaled **\8,819** offering insight into guest preferences and potential facility demand for parking accommodations.
+Total Requested Parking Spaces totaled **8,819** offering insight into guest preferences and potential facility demand for parking accommodations.
 
 These figures serve as foundational indicators of overall business activity and help contextualize deeper analyses into revenue trends, guest behavior, and operational needs.
 The analysis supports operational, pricing, and marketing decisions by focusing on performance fluctuations, customer demand trends, and infrastructure needs.
 
+---
 
 ## Summary of Key Insights
 
@@ -37,7 +38,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 * Revenue surged to $20.95M in 2022 — a 265.1% increase, driven by a significant uptick in guest demand and a strong rebound in the hospitality sector.
 
-* In 2023, revenue decreased to $11.54M — a 44.9% drop from the 2022 peak — yet it still remained 101.1% higher than 2021, indicating retained growth above pre-surge levels.
+* In 2023, revenue decreased to $11.54M — a 44.9% drop from the 2022 peak and yet it still remained 101.1% higher than 2021, indicating retained growth above pre-surge levels.
 
 * MidTown Luxury Hotel led overall performance, contributing $21.44M, which accounts for 57.4% of the total three-year revenue.
 
@@ -53,7 +54,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 * In 2023, parking demand dropped to 2,278 requests, representing a 56.5% decrease from the 2022 high, yet still 74.8% higher than 2021, showing sustained growth in infrastructure use compared to post spiked levels.
 
-* The 4 Star Resort & Hotel accounted for approximately 73% of total parking requests in 2022, indicating higher guest reliance on parking amenities at the resort location.
+* The 4 Star Resort & Hotel accounted for approximately 73% of total parking requests in 2022, indicating higher guest reliance on parking availabilties at the resort location.
 
 * These patterns closely track with peak guest periods, suggesting that parking demand is seasonal and operationally significant, particularly during high traffic months when infrastructure strain is likely at its highest.
   
@@ -74,7 +75,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 | July        | \$150+      | High bookings |
 | December    | \$150+      | Holiday spike |
 
-![images](https://github.com/johnmaguilar/Solara-Haven-Group/blob/main/Dashboard-Images/Average%20Daily%20Rate%20Trend.png?raw=true)
+![images](https://github.com/johnmaguilar/Solara-Haven-Group/blob/main/Dashboard-Images/Average%20Daily%20Rate.png?raw=true)
 
 ### 4. Property Comparison
 
