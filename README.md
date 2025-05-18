@@ -70,11 +70,6 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 * This recurring pattern underscores strong seasonality in both pricing strategy and guest behavior, suggesting that July and December are key revenue driving periods where targeted marketing and dynamic pricing would yield optimal returns.
 
-| Peak Months | Typical ADR | Guest Volume  |
-| ----------- | ----------- | ------------- |
-| July        | \$150+      | High bookings |
-| December    | \$150+      | Holiday spike |
-
 ![images](https://github.com/johnmaguilar/Solara-Haven-Group/blob/main/Dashboard-Images/Average%20Daily%20Rate.png?raw=true)
 
 ### 4. Property Comparison
@@ -86,7 +81,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 * MidTown consistently led in revenue every year, demonstrating more stable, year round performance, while the Resort displayed greater fluctuation tied to peak periods.
 
 * These differences highlight contrasting operational priorities: the Resort may benefit from infrastructure investments (e.g., parking, staffing during high seasons), while MidTown’s strength lies in sustained occupancy and pricing stability.
-  
+
 ![images](https://github.com/johnmaguilar/Solara-Haven-Group/blob/main/Dashboard-Images/Property%20Comparison.png?raw=true)
 
 ### 5. Additional Operational Insight: Booking Cancellations
