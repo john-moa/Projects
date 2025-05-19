@@ -1,4 +1,4 @@
-# Executive Briefing: Hotel Operations Overview (2021–2023)
+# Hotel Operations Overview (2021–2023)
 
 ## Project Background
 
