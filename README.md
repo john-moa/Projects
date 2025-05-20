@@ -100,11 +100,11 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 **Invest in Parking Expansion** at the 4 Star Resort, which saw a 300%+ increase in demand during peak years.
 
-**Leverage Seasonal ADR Increases**: Maintain or enhance pricing strategies in July and December when both ADR and volume spike.
+**Leverage Seasonal ADR Increases**: Maintain or enhance pricing strategies in July and December when both ADR and volume spike. Consider dynamic pricing to optimize revenue capture during high demand periods.
 
-**Assess Revenue Dip in 2023**: Explore potential causes of the 2023 revenue dip such as seasonal patterns or changes in demand through further analysis of operational and marketing data.
+**Assess Revenue Dip in 2023**: Explore potential causes of the 2023 revenue dip such as seasonal patterns or changes in demand through further analysis of operational and marketing data. Identifying key drivers can help recover or mitigate future losses.
 
-**Segment Operational Strategy**: Differentiate approaches between MidTown Luxury Hotel and the 4 Star Resort & Hotel—e.g., focus MidTown on consistent revenue and the Resort on managing seasonality and amenities.
+**Segment Operational Strategy**: Differentiate approaches between MidTown Luxury Hotel and the 4 Star Resort & Hotel—e.g., focus MidTown on consistent revenue and guest retention while the Resort focuses on managing seasonal fluctuations, improving amenities, and addressing infrastructure demands.
 
 
 ## Considerations & Caveats
