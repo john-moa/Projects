@@ -36,9 +36,9 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 * In 2021, total revenue across both properties was $5.74M, reflecting ongoing travel recovery post pandemic.
 
-* Revenue surged to $20.95M in 2022 — a 265.1% increase, driven by a significant uptick in guest demand and a strong rebound in the hospitality sector.
+* Revenue surged to $20.95M in 2022, a 265.1% increase, driven by a significant uptick in guest demand and a strong rebound in the hospitality sector.
 
-* In 2023, revenue decreased to $11.54M — a 44.9% drop from the 2022 peak and yet it still remained 101.1% higher than 2021, indicating retained growth above pre-surge levels.
+* In 2023, revenue decreased to $11.54M, a 44.9% drop from the 2022 peak and yet it still remained 101.1% higher than 2021, indicating retained growth above pre-surge levels.
 
 * MidTown Luxury Hotel led overall performance, contributing $21.44M, which accounts for 57.4% of the total three-year revenue.
 
@@ -50,7 +50,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 * In 2021, there were 1,303 parking requests logged across both hotel properties.
 
-* That number surged to 5,238 in 2022 — a 301.8% increase, likely tied to the rise in guest volume and the post COVID travel rebound.
+* That number surged to 5,238 in 2022, a 301.8% increase, likely tied to the rise in guest volume and the post COVID travel rebound.
 
 * In 2023, parking demand dropped to 2,278 requests, representing a 56.5% decrease from the 2022 high, yet still 74.8% higher than 2021, showing sustained growth in infrastructure use compared to post spiked levels.
 
@@ -90,7 +90,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 * Cancellation rates declined consistently from 2021 to 2023.
 * 2021 had the highest cancellation ratio relative to total bookings, potentially reflecting pandemic related uncertainty.
 * 2022 and 2023 showed marked improvements, which may indicate stronger guest confidence, better communication, or revised booking policies.
-* These patterns suggest that the organization has already made progress in improving booking reliability. However, further analysis—such as identifying high risk booking segments or understanding common cancellation triggers could unlock opportunities for revenue recovery and targeted guest engagement strategies.
+* These patterns suggest that the organization has already made progress in improving booking reliability. However, further analysis such as identifying high risk booking segments or understanding common cancellation triggers could unlock opportunities for revenue recovery and targeted guest engagement strategies.
 
 ![images](https://github.com/johnmaguilar/Solara-Haven-Group/blob/main/Dashboard-Images/Cancellation%20Status%20by%20Year.png?raw=true)
 
@@ -104,7 +104,7 @@ The analysis supports operational, pricing, and marketing decisions by focusing 
 
 **Assess Revenue Dip in 2023**: Explore potential causes of the 2023 revenue dip such as seasonal patterns or changes in demand through further analysis of operational and marketing data. Identifying key drivers can help recover or mitigate future losses.
 
-**Segment Operational Strategy**: Differentiate approaches between MidTown Luxury Hotel and the 4 Star Resort & Hotel—e.g., focus MidTown on consistent revenue and guest retention while the Resort focuses on managing seasonal fluctuations, improving amenities, and addressing infrastructure demands.
+**Segment Operational Strategy**: Differentiate approaches between MidTown Luxury Hotel and the 4 Star Resort & Hotel e.g., focus MidTown on consistent revenue and guest retention while the Resort focuses on managing seasonal fluctuations, improving amenities, and addressing infrastructure demands.
 
 
 ## Considerations & Caveats
